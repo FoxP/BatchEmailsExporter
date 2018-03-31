@@ -8,7 +8,7 @@ Attachments can be extracted. Yeah, that's cool.
 <kbd><img src="BEE/ressources/pictures/demo.gif"></kbd>
 
 ## Requirements
-- Microsoft [.NET Framework 4](https://www.microsoft.com/en-US/download/details.aspx?id=17851
+- Microsoft [.NET Framework 4](https://www.microsoft.com/en-us/download/details.aspx?id=17718)
 - Microsoft Outlook 2010 or later
 - Microsoft Windows Vista or later
 
